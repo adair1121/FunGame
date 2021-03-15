@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gan2",
+    "texture": "b6969cdb-9e22-41cc-b047-5d7b04a3e193",
+    "atlas": "",
+    "rect": [
+      30,
+      3,
+      49,
+      111
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      110,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

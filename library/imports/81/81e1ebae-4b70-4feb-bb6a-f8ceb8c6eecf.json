@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dolo",
+    "texture": "424df71f-5703-4187-bdf3-5f7446f10c85",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

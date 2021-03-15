@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "booxa",
+    "texture": "a03f4ff0-820d-4643-9e9a-782fface98b3",
+    "atlas": "",
+    "rect": [
+      16,
+      3,
+      70,
+      99
+    ],
+    "offset": [
+      -4,
+      4.5
+    ],
+    "originalSize": [
+      110,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

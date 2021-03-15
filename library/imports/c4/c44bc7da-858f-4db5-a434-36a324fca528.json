@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bonusA1",
+    "texture": "654c681e-a48e-4139-b943-281139142d95",
+    "atlas": "",
+    "rect": [
+      6,
+      11,
+      99,
+      99
+    ],
+    "offset": [
+      0.5,
+      -3.5
+    ],
+    "originalSize": [
+      110,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
